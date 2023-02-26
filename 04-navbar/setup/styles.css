@@ -199,9 +199,8 @@ nav {
   display: none;
 }
 .links {
-  /* height: 0;
-  overflow: hidden;
-  transition: var(--transition); */
+   height: auto;
+   display: flex;
 }
 .show-links {
   height: 10rem;
